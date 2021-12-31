@@ -1,4 +1,24 @@
+body {
+    background-color: wheat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1, h2, h3, p {
+    text-align: center;
+}
+
+#title {
+    color: sienna;
+}
+
 img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     height: 500px;
     width: auto;
+}
+
+.list {
+    text-align: center;
 }
