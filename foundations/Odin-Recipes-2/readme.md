@@ -1,1 +1,1 @@
-This is a new repository for the Recipes project from TOP.
+Odin-Recipes-2 is the first modification to My First Website using css foundation techniques.
